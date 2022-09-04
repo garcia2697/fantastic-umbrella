@@ -4,7 +4,7 @@ const sequelize = require('../config/connection.js');
 
 class Category extends Model {}
 
-// sets up the category model
+// sets up the category model and columns
 Category.init(
   {
     id: {

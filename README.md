@@ -20,4 +20,5 @@ Make sure all relevant node.js extensions are installed
 ## Usage
 You can start the program by first initializing the database in MySQL. (This should only be done once if you have express.urlencoded set to false)
 
-## 
+## Demo link
+https://drive.google.com/file/d/1oURtgvowiXCdS9q6_jGVJhTdiWr02UWx/view
